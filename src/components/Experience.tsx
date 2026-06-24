@@ -4,10 +4,10 @@ export default function Experience() {
       id: 1,
       title: 'Software Engineer',
       company: 'Shardlab',
-      period: 'Jun 2025 — Feb 2026',
-      duration: '8 months',
+      period: 'Jun 2025 — Present',
+      duration: 'ongoing',
       description:
-        'Built a comprehensive full-featured blog application with end-to-end CRUD functionality. Developed and tested Solidity smart contracts, designed secure authentication systems with OIDC integration.',
+        'Building a comprehensive full-featured blog application with end-to-end CRUD functionality. Developed and tested Solidity smart contracts, designed secure authentication systems with OIDC integration.',
       achievements: [
         'Full-stack CRUD operations with scalable architecture',
         'ERC-20, ERC-721, ERC-1155 smart contract development',

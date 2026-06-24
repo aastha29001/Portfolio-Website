@@ -25,7 +25,7 @@ export default function Hero() {
         <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent-primary/10 border border-accent-primary/20 mb-8 animate-fade-up">
           <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
           <span className="text-sm font-medium text-accent-primary">
-            Open to opportunities
+            Open to New Opportunities & Relocation
           </span>
         </div>
 
@@ -37,10 +37,9 @@ export default function Hero() {
         </h1>
 
         <p className="text-lg md:text-xl text-text-secondary max-w-2xl mx-auto mb-12 leading-relaxed animate-fade-up delay-200">
-          I build scalable systems, optimize integrations, and craft exceptional
-          user experiences with{' '}
-          <span className="text-accent-primary font-medium">3 years</span> of
-          full-stack expertise.
+          I build scalable systems, optimize integrations, and craft exceptional user experiences with {' '}
+          <span className="text-accent-primary font-medium">3.5+ years</span> of full-stack expertise and slowly transitioning into AI Engineer with hands on expertise in Claude code ,
+          copilot and ChatGPT.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-5 justify-center animate-fade-up delay-300">
