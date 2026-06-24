@@ -2,6 +2,11 @@
 
 A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS. This website showcases professional projects, skills, and experience as a Software Development Engineer.
 
+## Deployment
+
+### Vercel Deployment Link 
+https://portfolio-website-jet-ten-94.vercel.app/
+
 ## Features
 
 - **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
@@ -219,10 +224,7 @@ The website is optimized for performance with:
 - Responsive images
 - Smooth scroll behavior
 
-## Deployment
 
-### Vercel Deployment Link 
-https://portfolio-website-jet-ten-94.vercel.app/
 
 
 ### GitHub Pages
